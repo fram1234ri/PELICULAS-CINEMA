@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # peliculas_fa
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# PELICULAS-CINEMA
+Deber 4 unidad 3
+>>>>>>> 7d2da6e4aef27c421a615982201e7644cd9af223
